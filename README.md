@@ -108,3 +108,16 @@ Explore the report for methodology and findings.
 **📜 License**
 
 This project is for academic purposes. Free to use and adapt with attribution.
+
+**PLOTS**
+
+
+
+<img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/a97e0b1f-39fe-4501-a34f-c19f6282f9f4" />
+
+<img width="776" height="680" alt="image" src="https://github.com/user-attachments/assets/7dce11ed-e105-4588-85e7-b281f6c1f99b" />
+
+<img width="1067" height="986" alt="image" src="https://github.com/user-attachments/assets/9704436e-0f65-4df8-8b79-748158a159cc" />
+
+<img width="702" height="276" alt="image" src="https://github.com/user-attachments/assets/c75990cf-cec9-4599-ae46-cfd51c3bb1ea" />
+
